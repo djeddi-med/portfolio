@@ -33,7 +33,7 @@ const Hero = ({ currentLang, downloadCV }) => {
                     
                     <div className="hero-image-section">
                         <img 
-                            src="/img/img.png" 
+                            src="/portfolio/img/img.png" 
                             alt="Djeddi Mohamed" 
                             className="profile-img"
                         />
